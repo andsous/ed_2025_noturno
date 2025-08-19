@@ -1,2 +1,4 @@
 teste no git
 commit numero 2
+
+alteração realizada por outro programador.
